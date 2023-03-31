@@ -32,7 +32,8 @@
     "nested"
   ],
   "dependencies": {
-    "sortablejs": "1.14.0"
+    "sortablejs": "1.14.0",
+    "vuedraggable": "^4.1.0"
   },
   "peerDependencies": {
     "vue": "^3.0.1"
