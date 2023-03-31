@@ -12,3 +12,6 @@ test/tmp
 /coverage
 
 .env.local
+
+# Local Netlify folder
+.netlify
